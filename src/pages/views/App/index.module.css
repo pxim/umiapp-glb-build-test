@@ -1,0 +1,77 @@
+/*
+ * @Description:
+ * @Author: 彭祥 (Email:px.i@foxmail.com QQ:245803627)
+ * @Date: 2021-05-26 18:27
+ * @LastEditors: PengXiang
+ * @LastEditTime: 2021-05-26 18:27
+ */
+
+.AutoSizeWrapper {
+
+}
+
+.LoadingWin {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+.LogoBar {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    pointer-events: none;
+}
+
+/*----------------------*/
+
+.TitleWin {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.DescWin {
+}
+.MenuWin {
+    justify-content: flex-end;
+}
+.ContrBar {
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    user-select: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.ModelView {
+
+}
+
+
+
+/*flex垂直居中的容器*/
+.verticalCenterWrap {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    pointer-events: none;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    padding: 0;
+    top: 0;
+}
+
+
+/*.mystyle :global(.ant-descriptions-item-content) {*/
+/*    !*color: #bd1f1f !important;*!*/
+/*}*/
+
