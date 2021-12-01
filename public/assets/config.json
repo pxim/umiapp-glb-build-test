@@ -1,0 +1,191 @@
+{
+  "root": {
+    "stats": true,
+    "app": {
+      "background": "rgba(33,33,33,1)"
+    },
+    "stage": [{"width": 1920, "height": 1080},{"width": 1334, "height": 750}],
+    "title": "动力电池分压接触器3D结构展示",
+    "menu": {
+      "aloneDisplayEnabled": false,
+      "transparentEnabled": false
+    },
+    "desc": {
+      "enabled": false
+    },
+    "label": {
+      "enabled": false
+    },
+    "scene": {
+      "angleLimit": {
+        "maxX": null,
+        "minX": null,
+        "maxY": null,
+        "minY": null,
+        "maxZ": null,
+        "minZ": null
+      },
+      "selectedEffectType": 2,
+      "outlineColor": [
+        "#06371c",
+        "#086b78",
+        "#00ffff"
+      ],
+      "modelScale": 1,
+      "initView": {
+        "cameraRotation": {
+          "x": -0.777056896350638,
+          "y": 0.3611030289913785,
+          "z": 0.33441104233253716
+        },
+        "cameraPosition": {
+          "x": 0.16799532906706546,
+          "y": 0.31190704582636203,
+          "z": 0.3171543365022176
+        }
+      },
+      "animationView": {
+        "cameraRotation": {
+          "x": -0.4725099203279479,
+          "y": 0.11632878025810527,
+          "z": 0.05925537462028505
+        },
+        "cameraPosition": {
+          "x": 0.08756701663436166,
+          "y": 0.34104884201327945,
+          "z": 0.6672480935684885
+        },
+        "modelPosition": {
+          "x": 0.049153070267759835,
+          "y": -0.10156474075291794,
+          "z": 0.06239135201216307
+        }
+      }
+    },
+    "tree": [
+      {
+        "key": "mPart_DLDCFYJCQ",
+        "title": "动力电池分压接触器",
+        "text": "动力电池分压接触器",
+        "labelPosOffset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "centerScale": 1,
+        "link": "",
+        "visibility": true,
+        "transparent": false,
+        "alphaMaterial": 1,
+        "level": 0,
+        "children": [
+          {
+            "key": "mPart_BXS",
+            "title": "保险丝",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.7,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_FJGYLJP",
+            "title": "负极高压连接片1",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.5,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_FJGYLJP2",
+            "title": "负极高压连接片2",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.6,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_JSQ",
+            "title": "接触器",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.9,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_SKT",
+            "title": "上端盖",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.8,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_XDG",
+            "title": "下端盖",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.8,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          },
+          {
+            "key": "mPart_ZJGYLJP",
+            "title": "正极高压连接片",
+            "text": "",
+            "labelPosOffset": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "centerScale": 0.6,
+            "link": "",
+            "visibility": true,
+            "transparent": false,
+            "alphaMaterial": 1
+          }
+        ]
+      }
+    ]
+  }
+}

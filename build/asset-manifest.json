@@ -1,0 +1,21 @@
+{
+  "./umi.css": "./umi.9f36c5cf.css",
+  "./umi.js": "./umi.aae5e0b7.js",
+  "./assets/bg.png": "./assets/bg.png",
+  "./assets/config.json": "./assets/config.json",
+  "./assets/default.glb": "./assets/default.glb",
+  "./assets/envmap.hdr": "./assets/envmap.hdr",
+  "./assets/label.glb": "./assets/label.glb",
+  "./assets/wasm/basis_transcoder.js": "./assets/wasm/basis_transcoder.js",
+  "./assets/wasm/basis_transcoder.wasm": "./assets/wasm/basis_transcoder.wasm",
+  "./assets/wasm/draco_decoder.js": "./assets/wasm/draco_decoder.js",
+  "./assets/wasm/draco_decoder.wasm": "./assets/wasm/draco_decoder.wasm",
+  "./assets/wasm/draco_wasm_wrapper.js": "./assets/wasm/draco_wasm_wrapper.js",
+  "./favicon.ico": "./favicon.ico",
+  "./index.html": "./index.html",
+  "./index2.html": "./index2.html",
+  "./logo192.png": "./logo192.png",
+  "./logo512.png": "./logo512.png",
+  "./manifest.json": "./manifest.json",
+  "./robots.txt": "./robots.txt"
+}
